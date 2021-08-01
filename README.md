@@ -22,9 +22,9 @@ git clone ƒŠƒ|ƒWƒgƒŠURL						ƒŠƒ‚[ƒgƒŠƒ|ƒWƒgƒŠ‚ðƒ[ƒJƒ‹ƒŠƒ|ƒWƒgƒŠ‚É•¡»‚·‚éiƒ
 ---
 ƒŠƒ‚[ƒgƒŠƒ|ƒWƒgƒŠ‚Ì•ÏX‚ðƒ[ƒJƒ‹‚É”½‰f‚³‚¹‚é
 
-|git fetch origin							||ƒŠƒ‚[ƒgƒŠƒ|ƒWƒgƒŠ‚©‚çƒ[ƒJƒ‹‚É‚ ‚éƒŠƒ‚[ƒgƒŠƒ|ƒWƒgƒŠ‚ÌƒRƒs[‚ÉÅVî•ñ‚ðƒ_ƒEƒ“ƒ[ƒh‚·‚é  |
-|git merge ƒuƒ‰ƒ“ƒ`–¼						||ƒ[ƒJƒ‹ƒuƒ‰ƒ“ƒ`‚É”½‰f‚·‚é  |
-|git pull origin ƒuƒ‰ƒ“ƒ`–¼					||fetch‚Æmerge‚ð‚Ü‚Æ‚ß‚ÄŽÀs‚Å‚«‚éƒRƒ}ƒ“ƒh  |
+|git fetch origin||ƒŠƒ‚[ƒgƒŠƒ|ƒWƒgƒŠ‚©‚çƒ[ƒJƒ‹‚É‚ ‚éƒŠƒ‚[ƒgƒŠƒ|ƒWƒgƒŠ‚ÌƒRƒs[‚ÉÅVî•ñ‚ðƒ_ƒEƒ“ƒ[ƒh‚·‚é|
+|git merge ƒuƒ‰ƒ“ƒ`–¼||ƒ[ƒJƒ‹ƒuƒ‰ƒ“ƒ`‚É”½‰f‚·‚é|
+|git pull origin ƒuƒ‰ƒ“ƒ`–¼||fetch‚Æmerge‚ð‚Ü‚Æ‚ß‚ÄŽÀs‚Å‚«‚éƒRƒ}ƒ“ƒh|
 
 ---
 ƒuƒ‰ƒ“ƒ`‚Ìì¬EŠm”F
