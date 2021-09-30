@@ -1,42 +1,42 @@
-[‰‰ñ]ƒ[ƒJƒ‹‚ÉƒŠƒ|ƒWƒgƒŠ‚ðì¬‚µAƒŠƒ‚[ƒg‚ÉƒvƒbƒVƒ…‚·‚éÛ‚ÌŽè‡
+#### \[åˆå›ž]ãƒ­ãƒ¼ã‚«ãƒ«ã«ãƒªãƒã‚¸ãƒˆãƒªã‚’ä½œæˆã—ã€ãƒªãƒ¢ãƒ¼ãƒˆã«ãƒ—ãƒƒã‚·ãƒ¥ã™ã‚‹éš›ã®æ‰‹é †
 
-git init									Œ»Ý‚¢‚éƒfƒBƒŒƒNƒgƒŠ‚ðgit‚ÅŠÇ—‚·‚é‚½‚ß‚ÌÝ’èƒtƒ@ƒCƒ‹‚ð¶¬‚·‚éB  
-git add ƒtƒ@ƒCƒ‹–¼							uƒtƒ@ƒCƒ‹–¼v‚Ì•”•ª‚Éƒtƒ@ƒCƒ‹–¼‚ðŽw’è‚·‚é‚±‚Æ‚ÅAŽw’è‚µ‚½ƒtƒ@ƒCƒ‹‚ðƒCƒ“ƒfƒbƒNƒX‚É’Ç‰Á‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B  
-git commit -m "ƒRƒƒ“ƒg"					ƒƒbƒZ[ƒW‚ð‚Â‚¯‚Ä•ÏX—š—ð‚ð•Û‘¶‚·‚éB
-git branch -M main							ƒfƒtƒHƒ‹ƒgƒuƒ‰ƒ“ƒ`‚ðmaster‚©‚çmain‚É•ÏX‚·‚éBƒfƒtƒHƒ‹ƒgƒuƒ‰ƒ“ƒ`‚ªmain‚Ìê‡‚Í•s—v  
-git remote add origin ƒŠƒ|ƒWƒgƒŠURL			origin‚Æ‚¢‚¤–¼‘O‚ÅƒŠƒ‚[ƒgƒŠƒ|ƒWƒgƒŠ‚ÌURL‚ð“o˜^‚·‚éB  
-git push origin ƒuƒ‰ƒ“ƒ`–¼					ƒ[ƒJƒ‹‚Ì•ÏX‚ðƒŠƒ‚[ƒgƒŠƒ|ƒWƒgƒŠ‚ÉƒAƒbƒvƒ[ƒh‚·‚éBuƒuƒ‰ƒ“ƒ`–¼v‚ÉƒAƒbƒvƒ[ƒh‚µ‚½‚¢ƒuƒ‰ƒ“ƒ`‚Ì–¼‘O‚ðŽw’è‚µ‚Ü‚·B  
-
----
-[2‰ñ–ÚˆÈ~]ƒ[ƒJƒ‹‚ÉƒŠƒ|ƒWƒgƒŠ‚Ì•ÏX‚ðƒŠƒ‚[ƒg‚ÉƒvƒbƒVƒ…‚·‚éÛ‚ÌŽè‡
-
-git add ƒtƒ@ƒCƒ‹–¼							uƒtƒ@ƒCƒ‹–¼v‚Ì•”•ª‚Éƒtƒ@ƒCƒ‹–¼‚ðŽw’è‚·‚é‚±‚Æ‚ÅAŽw’è‚µ‚½ƒtƒ@ƒCƒ‹‚ðƒCƒ“ƒfƒbƒNƒX‚É’Ç‰Á‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B  
-git commit -m "ƒRƒƒ“ƒg"					ƒƒbƒZ[ƒW‚ð‚Â‚¯‚Ä•ÏX—š—ð‚ð•Û‘¶‚·‚éB  
-git push origin ƒuƒ‰ƒ“ƒ`–¼					ƒ[ƒJƒ‹‚Ì•ÏX‚ðƒŠƒ‚[ƒgƒŠƒ|ƒWƒgƒŠ‚ÉƒAƒbƒvƒ[ƒh‚·‚éBuƒuƒ‰ƒ“ƒ`–¼v‚ÉƒAƒbƒvƒ[ƒh‚µ‚½‚¢ƒuƒ‰ƒ“ƒ`‚Ì–¼‘O‚ðŽw’è‚µ‚Ü‚·  
+`git init`    ç¾åœ¨ã„ã‚‹ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã‚’gitã§ç®¡ç†ã™ã‚‹ãŸã‚ã®è¨­å®šãƒ•ã‚¡ã‚¤ãƒ«ã‚’ç”Ÿæˆã™ã‚‹ã€‚  
+`git add ãƒ•ã‚¡ã‚¤ãƒ«å`						ã€Œãƒ•ã‚¡ã‚¤ãƒ«åã€ã®éƒ¨åˆ†ã«ãƒ•ã‚¡ã‚¤ãƒ«åã‚’æŒ‡å®šã™ã‚‹ã“ã¨ã§ã€æŒ‡å®šã—ãŸãƒ•ã‚¡ã‚¤ãƒ«ã‚’ã‚¤ãƒ³ãƒ‡ãƒƒã‚¯ã‚¹ã«è¿½åŠ ã™ã‚‹ã“ã¨ãŒã§ãã¾ã™ã€‚  
+`git commit -m "ã‚³ãƒ¡ãƒ³ãƒˆ"`					ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ã‚’ã¤ã‘ã¦å¤‰æ›´å±¥æ­´ã‚’ä¿å­˜ã™ã‚‹ã€‚  
+`git branch -M main`							ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆãƒ–ãƒ©ãƒ³ãƒã‚’masterã‹ã‚‰mainã«å¤‰æ›´ã™ã‚‹ã€‚ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆãƒ–ãƒ©ãƒ³ãƒãŒmainã®å ´åˆã¯ä¸è¦  
+`git remote add origin ãƒªãƒã‚¸ãƒˆãƒªURL`			originã¨ã„ã†åå‰ã§ãƒªãƒ¢ãƒ¼ãƒˆãƒªãƒã‚¸ãƒˆãƒªã®URLã‚’ç™»éŒ²ã™ã‚‹ã€‚  
+`git push origin ãƒ–ãƒ©ãƒ³ãƒå`					ãƒ­ãƒ¼ã‚«ãƒ«ã®å¤‰æ›´ã‚’ãƒªãƒ¢ãƒ¼ãƒˆãƒªãƒã‚¸ãƒˆãƒªã«ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã™ã‚‹ã€‚ã€Œãƒ–ãƒ©ãƒ³ãƒåã€ã«ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã—ãŸã„ãƒ–ãƒ©ãƒ³ãƒã®åå‰ã‚’æŒ‡å®šã—ã¾ã™ã€‚  
 
 ---
-ƒŠƒ‚[ƒgƒŠƒ|ƒWƒgƒŠ‚ðƒ[ƒJƒ‹ƒŠƒ|ƒWƒgƒŠ‚É•¡»‚·‚é(ƒ_ƒEƒ“ƒ[ƒh)
+#### \[2å›žç›®ä»¥é™]ãƒ­ãƒ¼ã‚«ãƒ«ã«ãƒªãƒã‚¸ãƒˆãƒªã®å¤‰æ›´ã‚’ãƒªãƒ¢ãƒ¼ãƒˆã«ãƒ—ãƒƒã‚·ãƒ¥ã™ã‚‹éš›ã®æ‰‹é †
 
-git clone ƒŠƒ|ƒWƒgƒŠURL						ƒŠƒ‚[ƒgƒŠƒ|ƒWƒgƒŠ‚ðƒ[ƒJƒ‹ƒŠƒ|ƒWƒgƒŠ‚É•¡»‚·‚éiƒ_ƒEƒ“ƒ[ƒhjBuƒŠƒ|ƒWƒgƒŠURLv‚Í•¡»‚µ‚½‚¢ƒŠƒ‚[ƒgæ‚ÌURL‚ðŽw’è‚µ‚Ü‚·B  
-
----
-ƒŠƒ‚[ƒgƒŠƒ|ƒWƒgƒŠ‚Ì•ÏX‚ðƒ[ƒJƒ‹‚É”½‰f‚³‚¹‚é
-
-git fetch origin							ƒŠƒ‚[ƒgƒŠƒ|ƒWƒgƒŠ‚©‚çƒ[ƒJƒ‹‚É‚ ‚éƒŠƒ‚[ƒgƒŠƒ|ƒWƒgƒŠ‚ÌƒRƒs[‚ÉÅVî•ñ‚ðƒ_ƒEƒ“ƒ[ƒh‚·‚é  
-git merge ƒuƒ‰ƒ“ƒ`–¼						ƒ[ƒJƒ‹ƒuƒ‰ƒ“ƒ`‚É”½‰f‚·‚é  
-git pull origin ƒuƒ‰ƒ“ƒ`–¼					fetch‚Æmerge‚ð‚Ü‚Æ‚ß‚ÄŽÀs‚Å‚«‚éƒRƒ}ƒ“ƒh  
+`git add ãƒ•ã‚¡ã‚¤ãƒ«å`:ã€Œãƒ•ã‚¡ã‚¤ãƒ«åã€ã®éƒ¨åˆ†ã«ãƒ•ã‚¡ã‚¤ãƒ«åã‚’æŒ‡å®šã™ã‚‹ã“ã¨ã§ã€æŒ‡å®šã—ãŸãƒ•ã‚¡ã‚¤ãƒ«ã‚’ã‚¤ãƒ³ãƒ‡ãƒƒã‚¯ã‚¹ã«è¿½åŠ ã™ã‚‹ã“ã¨ãŒã§ãã¾ã™ã€‚  
+`git commit -m "ã‚³ãƒ¡ãƒ³ãƒˆ"`:ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ã‚’ã¤ã‘ã¦å¤‰æ›´å±¥æ­´ã‚’ä¿å­˜ã™ã‚‹ã€‚  
+`git push origin ãƒ–ãƒ©ãƒ³ãƒå`:ãƒ­ãƒ¼ã‚«ãƒ«ã®å¤‰æ›´ã‚’ãƒªãƒ¢ãƒ¼ãƒˆãƒªãƒã‚¸ãƒˆãƒªã«ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã™ã‚‹ã€‚ã€Œãƒ–ãƒ©ãƒ³ãƒåã€ã«ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã—ãŸã„ãƒ–ãƒ©ãƒ³ãƒã®åå‰ã‚’æŒ‡å®šã—ã¾ã™  
 
 ---
-ƒuƒ‰ƒ“ƒ`‚Ìì¬EŠm”F
+#### ãƒªãƒ¢ãƒ¼ãƒˆãƒªãƒã‚¸ãƒˆãƒªã‚’ãƒ­ãƒ¼ã‚«ãƒ«ãƒªãƒã‚¸ãƒˆãƒªã«è¤‡è£½ã™ã‚‹(ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰)
 
-git branch									ƒuƒ‰ƒ“ƒ`‚Ìˆê——‚ð•\Ž¦‚·‚é
-git branch ƒuƒ‰ƒ“ƒ`–¼						ƒuƒ‰ƒ“ƒ`‚ðì¬‚·‚éBuƒuƒ‰ƒ“ƒ`–¼v‚Ì•”•ª‚ÉAì¬‚·‚éƒuƒ‰ƒ“ƒ`‚Ì–¼‘O‚ðŽw’è‚µ‚Ü‚·  
-git checkout ƒuƒ‰ƒ“ƒ`–¼						ƒuƒ‰ƒ“ƒ`–¼‚ðŽw’è‚µ‚ÄØ‚è‘Ö‚¦‚é  
-git checkout -b ƒuƒ‰ƒ“ƒ`–¼					ƒuƒ‰ƒ“ƒ`‚Ìì¬‚ÆØ‚è‘Ö‚¦‚ð‚Ü‚Æ‚ß‚ÄŽÀs‚Å‚«‚éƒRƒ}ƒ“ƒh  
+`git clone ãƒªãƒã‚¸ãƒˆãƒªURL`:ãƒªãƒ¢ãƒ¼ãƒˆãƒªãƒã‚¸ãƒˆãƒªã‚’ãƒ­ãƒ¼ã‚«ãƒ«ãƒªãƒã‚¸ãƒˆãƒªã«è¤‡è£½ã™ã‚‹ï¼ˆãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ï¼‰ã€‚ã€Œãƒªãƒã‚¸ãƒˆãƒªURLã€ã¯è¤‡è£½ã—ãŸã„ãƒªãƒ¢ãƒ¼ãƒˆå…ˆã®URLã‚’æŒ‡å®šã—ã¾ã™ã€‚  
 
 ---
-ƒƒO‚ÌŠm”FE‘€ì
+#### ãƒªãƒ¢ãƒ¼ãƒˆãƒªãƒã‚¸ãƒˆãƒªã®å¤‰æ›´ã‚’ãƒ­ãƒ¼ã‚«ãƒ«ã«åæ˜ ã•ã›ã‚‹
 
-git log										ƒRƒ~ƒbƒg‚Ì—š—ð‚ðŠm”F‚·‚é  
-git resetƒRƒ~ƒbƒg							—š—ð‚ðŒ³‚É‘O‚Ìó‘Ô‚É–ß‚·BuƒRƒ~ƒbƒgv‚É‚ÍŽ¯•Ê”Ô†‚ðŽw’è‚µ‚Ü‚·Bgit reset HEAD^‚Åˆê‚Â‘O‚É–ß‚·‚±‚Æ‚à‰Â”\  
-git status									ƒtƒ@ƒCƒ‹‚Ì’Ç‰Á/•ÏX/íœ‚ÌŠm”F
+`git fetch origin`:ãƒªãƒ¢ãƒ¼ãƒˆãƒªãƒã‚¸ãƒˆãƒªã‹ã‚‰ãƒ­ãƒ¼ã‚«ãƒ«ã«ã‚ã‚‹ãƒªãƒ¢ãƒ¼ãƒˆãƒªãƒã‚¸ãƒˆãƒªã®ã‚³ãƒ”ãƒ¼ã«æœ€æ–°æƒ…å ±ã‚’ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã™ã‚‹  
+`git merge ãƒ–ãƒ©ãƒ³ãƒå`:ãƒ­ãƒ¼ã‚«ãƒ«ãƒ–ãƒ©ãƒ³ãƒã«åæ˜ ã™ã‚‹  
+`git pull origin ãƒ–ãƒ©ãƒ³ãƒå`:`fetch`ã¨`merge`ã‚’ã¾ã¨ã‚ã¦å®Ÿè¡Œã§ãã‚‹ã‚³ãƒžãƒ³ãƒ‰  
+
+---
+#### ãƒ–ãƒ©ãƒ³ãƒã®ä½œæˆãƒ»ç¢ºèª
+
+`git branch`:ãƒ–ãƒ©ãƒ³ãƒã®ä¸€è¦§ã‚’è¡¨ç¤ºã™ã‚‹
+`git branch ãƒ–ãƒ©ãƒ³ãƒå`:ãƒ–ãƒ©ãƒ³ãƒã‚’ä½œæˆã™ã‚‹ã€‚ã€Œãƒ–ãƒ©ãƒ³ãƒåã€ã®éƒ¨åˆ†ã«ã€ä½œæˆã™ã‚‹ãƒ–ãƒ©ãƒ³ãƒã®åå‰ã‚’æŒ‡å®šã—ã¾ã™  
+`git checkout ãƒ–ãƒ©ãƒ³ãƒå`:ãƒ–ãƒ©ãƒ³ãƒåã‚’æŒ‡å®šã—ã¦åˆ‡ã‚Šæ›¿ãˆã‚‹  
+`git checkout -b ãƒ–ãƒ©ãƒ³ãƒå`:ãƒ–ãƒ©ãƒ³ãƒã®ä½œæˆã¨åˆ‡ã‚Šæ›¿ãˆã‚’ã¾ã¨ã‚ã¦å®Ÿè¡Œã§ãã‚‹ã‚³ãƒžãƒ³ãƒ‰  
+
+---
+#### ãƒ­ã‚°ã®ç¢ºèªãƒ»æ“ä½œ
+
+`git log`:ã‚³ãƒŸãƒƒãƒˆã®å±¥æ­´ã‚’ç¢ºèªã™ã‚‹  
+`git resetã‚³ãƒŸãƒƒãƒˆ`:å±¥æ­´ã‚’å…ƒã«å‰ã®çŠ¶æ…‹ã«æˆ»ã™ã€‚ã€Œã‚³ãƒŸãƒƒãƒˆã€ã«ã¯è­˜åˆ¥ç•ªå·ã‚’æŒ‡å®šã—ã¾ã™ã€‚`git reset HEAD^`ã§ä¸€ã¤å‰ã«æˆ»ã™ã“ã¨ã‚‚å¯èƒ½  
+`git status`:ãƒ•ã‚¡ã‚¤ãƒ«ã®è¿½åŠ /å¤‰æ›´/å‰Šé™¤ã®ç¢ºèª
